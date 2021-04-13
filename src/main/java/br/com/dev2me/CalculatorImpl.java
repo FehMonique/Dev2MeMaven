@@ -1,5 +1,6 @@
 package br.com.dev2me;
 
+//Classe concreta
 
 public class CalculatorImpl implements Calculator {
 
